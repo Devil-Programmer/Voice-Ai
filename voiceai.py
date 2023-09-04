@@ -48,3 +48,4 @@ while True:
         print("Could not request results; {0}".format(e))
     except Exception as e:
         print(e)
+        #try a new voice ai
